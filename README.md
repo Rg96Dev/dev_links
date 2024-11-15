@@ -1,8 +1,8 @@
 
-# :pencil: Dev Links
+# :alien: Dev Links
 
 
-##:clipboard:Descrição
+## :clipboard: Descrição
 
 Página de links para minhas redes sociais, facilitando o acesso aos meus contatos e destacando meu trabalho.
 
